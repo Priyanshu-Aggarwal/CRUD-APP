@@ -1,0 +1,15 @@
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\CRUD_App.csproj.AssemblyReference.cache
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\CRUD_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\CRUD_App.AssemblyInfoInputs.cache
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\CRUD_App.AssemblyInfo.cs
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\CRUD_App.csproj.CoreCompileInputs.cache
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\bin\Debug\net7.0\CRUD_App.exe
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\bin\Debug\net7.0\CRUD_App.deps.json
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\bin\Debug\net7.0\CRUD_App.runtimeconfig.json
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\bin\Debug\net7.0\CRUD_App.dll
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\bin\Debug\net7.0\CRUD_App.pdb
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\CRUD_App.dll
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\refint\CRUD_App.dll
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\CRUD_App.pdb
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\CRUD_App.genruntimeconfig.cache
+C:\Users\priya\Desktop\C-Sharp\CRUD_App\obj\Debug\net7.0\ref\CRUD_App.dll
